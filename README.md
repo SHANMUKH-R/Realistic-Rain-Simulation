@@ -1,5 +1,5 @@
 # Realistic-Rain-Simulation
-Particle System and instances are used to complete this simulation, but splashes is the unique effect included to make it more realistic.
+Particle Systems and instances are used to complete this simulation, but splashes are the unique effect included to make it more realistic.
 
 ![6frame](https://user-images.githubusercontent.com/71865643/118948283-c1488680-b975-11eb-9da5-86358ba9ee01.png)
 
